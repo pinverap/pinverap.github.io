@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pinverap.github.io/sitemap
+Sitemap: https://pinverap.github.io/app/sitemap
+Sitemap: https://pinverap.github.io/assets/sitemap
+Sitemap: https://pinverap.github.io/css/sitemap
+Sitemap: https://pinverap.github.io/includes/sitemap
+Sitemap: https://pinverap.github.io/item/sitemap
+Sitemap: https://pinverap.github.io/src/sitemap
